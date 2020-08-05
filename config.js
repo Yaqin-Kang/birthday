@@ -37,11 +37,11 @@ var config = {
     desc: {
         turn_on: "戳戳看",
         play: "不觉得确定背景音乐吗？",
-        bannar_coming: "颜色",
+        bannar_coming: "背景颜色变了嗷",
         balloons_flying: "好像还少点东西",
         cake_fadein: "给你点个蛋糕",
-        light_candle: "再加几支蜡烛",
-        wish_message: "王晓婷生日快乐",
+        light_candle: "然后点燃蜡烛",
+        wish_message: "祝王晓婷生日快乐",
         story: "我想对你说",
     }
 };
